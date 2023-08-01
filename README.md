@@ -13,7 +13,8 @@ Here, you will find my solutions to various code challenges and exercises that a
 I actively solved code challenges to reinforce my  understanding of React concepts and enhance my coding skills. I have delved deep into these concepts 
 to gain hands-on experience. All the codes neat and are written in well organized manner.
 
-# <h3>Repository Stucture</h3>
+# <h3>Features</h3>
+The repository includes:
 
 - A collection of code challenges and exercises, covering React fundamentals, state management, component composition, hooks, and more.
 - Organized folder structure for each section and module, providing easy navigation and readability.
@@ -21,19 +22,12 @@ to gain hands-on experience. All the codes neat and are written in well organize
 - Continuous updates and improvements as I progress through the course and further enhance my React skills.
 - Link to the challenges in readmeFiles in each section.
 
-# <h3>Features</h3>
-The repository includes implementations for the following Operating System concepts:
+# <h3>Repository Stucture</h3>
+The repository is structured in such a way that each directory contains my solutions to code challenges and exercises in the React course. Each folder contains a README file with a link to the Figma challenge (UI).
 
-- **Shared Memory:** Demonstrates inter-process communication using shared memory segments.
-- **Anonymous & Named Pipes:** Illustrates communication between processes using pipes, both anonymous and named.
-- **Semaphores (V):** Shows the use of semaphores to control access to shared resources and synchronization among processes.
-- **Fork() Call:** Covers the fork() system call for creating new processes in a parent-child relationship.
-- **Sockets:** Implements basic socket programming for network communication (single server and multiple clients) & (multiple servers and clients)
-- **Dining Philospher Problem:** Implementation of Dining Philospher problem's solution using system V semaphores and Pthreads.
-- **Threads:** Using Pthread library to create and work with multiple threads.
+#
+Thank you for visiting this repository, and I hope you find these practice codes helpful in your learning journey! If you are also learning React or interested in honing your skills, feel free to explore the code challenges in this repository. If you have any questions or suggestions, contact me at fatimaiqbalmirza002@gmail.com
 
-# 
-Thank you for visiting this repository, and I hope you find these OS practice codes helpful in your learning journey! If you have any questions or suggestions, 
-feel free to contact me at fatimaiqbalmirza002@gmail.com
+**Let's Learn React Together.**
+Happy coding!✨
 
-Happy coding!
