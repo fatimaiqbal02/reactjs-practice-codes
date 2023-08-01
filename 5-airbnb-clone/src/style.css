@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+/*--------------------------- NavBar ------------------------*/
+.nav-bar{
+    height: 70px;
+    padding: 20px 36px;
+    box-shadow: 0px 6px 10px -5px rgba(150, 170, 180, 0.5);
+    display: flex;
+}
+.nav-bar img{
+    max-width: 100px;
+}
+/*------------------------- Hero Section --------------------*/
+.hero-sec img{
+    width: 80%;
+    display: block;
+    margin: auto;
+    padding: 21px 4px;
+}
+
+.hero-sec h1{
+    font-size: 54px;
+    font-weight: bold;
+    padding-left: 29px;
+}
+.hero-sec p{
+    color: #444765;
+    font-size: 26px;
+    padding: 5px 34px;
+    width: 553px;
+}
+/*--------------------------- Cards Section ------------------------*/
+.card-section{
+    display: flex;
+    padding: 20px;
+    overflow-x: scroll;
+}
+.card-details{
+    padding: 14px;
+    position: relative;
+}
+.card-details img{
+    width: 253px;
+    height: 313px;
+    border-radius: 11px
+}
+.details p{
+    padding: 3px;
+}
+.card-details .details{
+    margin: 5px 3px;
+}
+.card-details .details .top-line i{
+    color: #fb3677;
+    margin-right: 6px;
+}
+.card-details .details .top-line span{
+    color:#8689a0;
+}
+.header-line {
+    font-size: 17px;
+}
+.details .price span{
+    font-weight: bold;
+}
+.card-badge{
+    position: absolute;
+    top: 22px;
+    left: 23px;
+    background-color: white;
+    padding: 5px 7px;
+    border-radius: 2px;
+}

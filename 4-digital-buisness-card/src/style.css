@@ -1,0 +1,103 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+    
+}
+
+/*---------------------------- Card Top -----------------------*/
+.card-top{
+    width: fit-content;
+    height: 398px;
+}
+.card-top img{
+    width: 398px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+/*---------------------------- Card Mid -----------------------*/
+.card-mid{
+    background-color: #F5F5F5;
+    width: 398px;
+    height: 500px;
+}
+
+.card-mid h1{
+    font-size: 32px;
+    text-align: center;
+    display: block;
+    margin: auto;
+    font-weight: bold;
+    padding-top: 19px;
+}
+.card-mid h2{
+    font-size: 20px;
+    font-weight: lighter;
+    color: orange;
+    display: block;
+    text-align: center;
+    margin: auto;
+    padding-top: 4px;
+}
+.card-mid p{
+    color: #55597C;
+    font-size: 14px;
+    display: block;
+    text-align: center;
+    margin: auto;
+    padding-top: 9px;
+}
+.p-button{
+    padding: 10px 21px;
+    background: white;
+    border: 1px solid rgb(121, 121, 121);
+    color: black;
+    font-size: 18px;
+    margin: 0px 13px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.btns{
+    margin: 32px 0px;
+    text-align: center;
+    margin-bottom: 46px;
+}
+.btns i{
+    font-size: 21px;
+    margin: 0px 14px;
+}
+.blue-btn{
+    color: white;
+    background-color: #297FE5;
+    border-color: #297FE5;
+}
+.sec h1{
+    text-align: left;
+    color: black;
+    font-size: 23px;
+    font-weight: bold;
+    padding: 0px 32px;
+    margin-bottom: 3px;
+}
+.sec p{
+    text-align: left;
+    color: #55597C;
+    margin-bottom: 24px;
+    padding: 0px 32px;
+}
+/*---------------------------- Card Bottom -----------------------*/
+.card-bottom{
+    background-color: #D1D0D4;
+    width: 397px;
+    height: 74px;
+    text-align: center;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.card-bottom a i{
+    color: #918E9B;
+    font-size: 39px;
+    padding: 16px 11px;
+}

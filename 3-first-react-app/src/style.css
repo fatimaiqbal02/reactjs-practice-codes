@@ -1,0 +1,64 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+body{
+    margin: 0;
+    background-color:#282d35;
+    background-image: url('./logoblack.png');
+    background-repeat: no-repeat;
+    background-size: 311px;
+    background-attachment: fixed;
+    background-position: 492px 225px;
+    background-blend-mode: overlay;
+}
+
+/*---------------------------------- NavBar Section -------------------------------*/
+.nav-bar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    color: white;
+    background-color: #21222A;  
+}
+.nav-logo-area{
+    display: flex;
+    font-size: 11px;
+}
+.nav-heading{
+    color: rgb(97,219,251);
+}
+.nav-course{
+    font-size: 16px;
+    font-weight: lighter;
+    margin: 24px 17px
+}
+.nav-logo{
+    width: 41px;
+    margin: 11px 10px;
+    height: 34px;
+}
+
+/*-------------------------------------- Main Section --------------------------------------*/
+.main-section{
+    padding: 5px 15px;
+    color: white;
+}
+.main-section h1{
+    padding-left: 10px;
+    font-size: 42px;
+    margin-top: 57px;
+    margin-bottom: 48px;
+}
+.main-section ul li{
+    margin: 26px 0px;
+    font-size: 17px;
+    list-style: none;
+}
+.main-section i{
+    font-size: 12px;
+    padding-right: 14px;
+    color: rgb(97,219,251);
+}
