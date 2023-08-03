@@ -20,15 +20,15 @@ The user interface was designed to be intuitive and user-friendly. With a straig
 
 ## Key Concepts Used
 
-1. Virtual DOM
-2. Reusable Functional Components
-3. Rendering DOM elements
-4. passing props
-5. destructuring props
-6. rendering arrays of components
-7. Event Listeners
-8. Using useState and useEffect and its cleanup Function
-9. Changing State
+01. Virtual DOM
+02. Reusable Functional Components
+03. Rendering DOM elements
+04. passing props
+05. destructuring props
+06. rendering arrays of components
+07. Event Listeners
+08. Using useState and useEffect and its cleanup Function
+09. Changing State
 10. Complex State
 11. Refactoring State
 12. Passing state as props
