@@ -1,3 +1,5 @@
+# React Meme Generator 🚀
+Welcome to my React Meme Generator project! 🎉
 
 ## Challenge Description
 It was the main project of the course. In this project, I explored the dynamic capabilities of React to create a meme generator website. The main goal was to build a fun and interactive platform that allows users to generate memes effortlessly.
