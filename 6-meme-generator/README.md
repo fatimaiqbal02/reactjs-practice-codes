@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+## Challenge Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this project, I learned how to create dynamic website in react info static page. The goal was to create a meme generator website which can generate random pics and then we can add any meme we want on the top and bottom pf the image. It can help users to effectively generate memes. The code is written in neat and well organized manner. It is a responsive web application.
 
-## Available Scripts
+## Project Highlights
 
-In the project directory, you can run:
+1. Virtual DOM
+2. Reusable Functional Components
+3. Rendering DOM elements
+4. passing props
+5. destructuring props
+6. rendering arrays of components
+7. Event Listeners
+8. Using useState and useEffect and its cleanup Function
+9. Changing State
+10. Complex State
+11. Refactoring State
+12. Passing state as props
+13. Setting state from child components
+14. Passing data around
+15. Conditional Rendering
+16.  Using React forms
+17.  Using Controlled inputs
+18.  Making API Calls
 
-### `npm start`
+## Design
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The UI design for this challenge was provided in a Figma file. You can find the Figma design here:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+👉[Figma UI Design](https://www.figma.com/file/MoLwFPHNHJVrzdFurxHzNV/Meme-Generator?type=design&node-id=0-1&mode=design&t=ZHdMYVJN1n58YWNz-0)
 
-### `npm test`
+(Note: To make an editable copy of this design, click the small arrow next to the design’s name above and choose “Duplicate to your drafts”.)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Preview
+![answer4](https://github.com/fatimaiqbal02/reactJs-practiceCodes/assets/111382869/9519ad3f-7226-4079-a0e2-bb04a288b065)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#
+I'm excited to apply these valuable lessons in future projects and explore even more advanced React concepts. The world of React has opened up a realm of possibilities, and I'm eager to continue my learning journey.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+If you have any questions or suggestions, contact me at fatimaiqbalmirza002@gmail.com. 
+Happy coding! 😃👩‍💻
