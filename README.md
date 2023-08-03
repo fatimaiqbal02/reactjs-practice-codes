@@ -2,7 +2,7 @@
 # reactJs-practiceCodes
 Welcome to my reactJs-practiceCodes repository!
  
- # <h3>Introduction</h3>
+ ## Introduction
  
 This GitHub repository documents my journey of learning React through the comprehensive React course on 'scrimba.com'. As an aspiring React developer, 
 I embarked on this learning journey to master the art of building dynamic and interactive user interfaces using React. 
@@ -13,7 +13,7 @@ Here, you will find my solutions to various code challenges and exercises that a
 I actively solved code challenges to reinforce my  understanding of React concepts and enhance my coding skills. I have delved deep into these concepts 
 to gain hands-on experience. All the codes neat and are written in well organized manner.
 
-# <h3>Features</h3>
+## Features
 The repository includes:
 
 - A collection of code challenges and exercises, covering React fundamentals, state management, component composition, hooks, and more.
@@ -22,7 +22,7 @@ The repository includes:
 - Continuous updates and improvements as I progress through the course and further enhance my React skills.
 - Link to the challenges in readmeFiles in each section.
 
-# <h3>Repository Stucture</h3>
+## Repository Stucture
 The repository is structured in such a way that each directory contains my solutions to code challenges and exercises in the React course. Each folder contains a README file with a link to the Figma challenge (UI).
 
 #
