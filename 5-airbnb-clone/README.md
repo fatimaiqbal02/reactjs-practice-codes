@@ -1,5 +1,5 @@
-# Airbnb Experiences Website Clone Challenge 🏡
-Welcome to the Airbnb Experiences Website Clone challenge! 🚀
+# Airbnb Experiences Website Clone Challenge 
+Welcome to the Airbnb Experiences Website Clone challenge! 
 
 ## Challenge Description
 
