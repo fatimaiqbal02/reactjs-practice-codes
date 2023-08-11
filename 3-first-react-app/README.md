@@ -1,5 +1,5 @@
-# React Info Static Page 🚀
-Welcome to my first React challenge! 🎉
+# React Info Static Page 
+Welcome to my first React challenge! 
 
 ## Challenge Description
 In this initial challenge of the course, I embarked on a journey to create an efficient React info static page. My primary focus was on optimizing the performance of the page by understanding the concept of virtual DOM and understanding React's rendering capabilities using ReactDOM.render. I learned how to create reusable functional
