@@ -1,5 +1,5 @@
-# Digital Business Card Challenge 🚀
-Welcome to my Digital Business Card project! 🎉
+# Digital Business Card Challenge 
+Welcome to my Digital Business Card project! 
 
 ## Challenge Description
 In this solo project, I embarked on a captivating journey to create an efficient Digital Buisness Card in React. My main focus was on optimizing the page's performance by understanding the concept of the Virtual DOM and leveraging React's rendering capabilities using ReactDOM.render. I delved into creating reusable functional components and seamlessly rendering React components to the HTML document.
