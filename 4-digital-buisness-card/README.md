@@ -2,7 +2,7 @@
 Welcome to my Digital Business Card project! 
 
 ## Challenge Description
-In this solo project, I embarked on a captivating journey to create an efficient Digital Buisness Card in React. My main focus was on optimizing the page's performance by understanding the concept of the Virtual DOM and leveraging React's rendering capabilities using ReactDOM.render. I delved into creating reusable functional components and seamlessly rendering React components to the HTML document.
+In this solo project, I embarked on a captivating journey to create a Digital Buisness Card in React. My main focus was on optimizing the page's performance by understanding the concept of the Virtual DOM and leveraging React's rendering capabilities using ReactDOM.render. I delved into creating reusable functional components and seamlessly rendering React components to the HTML document.
 
 ## Project Highlights
 - **Virtual DOM:** I mastered the power of React's Virtual DOM, enabling me to efficiently update the actual DOM and enhance the overall page performance.
