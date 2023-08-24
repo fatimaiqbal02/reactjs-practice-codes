@@ -20,7 +20,7 @@ The repository includes:
 - Organized folder structure for each section and module, providing easy navigation and readability.
 - Concise and well-commented code, providing insights into my thought process and implementation approach.
 - Continuous updates and improvements as I progress through the course and further enhance my React skills.
-- Link to the challenges in readmeFiles in each section.
+- Link to the challenges in readme Files in each section.
 
 ## Repository Stucture
 The repository is structured in such a way that each directory contains my solutions to code challenges and exercises in the React course. Each folder contains a README file with a link to the Figma challenge (UI).
