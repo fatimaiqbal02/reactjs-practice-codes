@@ -1,6 +1,6 @@
 
-# reactJs-practiceCodes
-Welcome to my reactJs-practiceCodes repository!
+# reactjs-practice-codes
+Welcome to my reactjs-practice-codes repository!
  
  ## Introduction
  
